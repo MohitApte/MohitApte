@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohitApte
 - 👀 I’m interested in ... Data Science And Machine learning
-- 🌱 I’m currently learning ... Adavanced Algorithms
+- 🌱 I’m currently learning ... Adavanced Learning Algorithms
 - 📫 How to reach me ... mohit.apte4@gmail.com
 
 <!---
